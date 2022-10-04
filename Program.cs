@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 namespace StringManipulation
 {
@@ -38,4 +38,4 @@ namespace StringManipulation
                 default:
                     return true;
             }
-}
+            

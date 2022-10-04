@@ -8,4 +8,6 @@ to travel into sapce
 Once suited up you'll need to input a specific launch code to get your 
 rocket launched into the great beyond.
 
+Thanks for playing
+
 Have fun and stay frosty!!
